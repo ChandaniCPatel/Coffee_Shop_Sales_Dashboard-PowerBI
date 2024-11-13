@@ -2,7 +2,7 @@
 This project is a Coffee Shop Sales Dashboard designed to analyze and visualize the sales performance of a coffee shop across different dimensions. The dashboard provides a comprehensive overview of sales, orders, and quantity sold, along with detailed insights into sales patterns by day, location, and product type. This tool helps to make data-driven decisions that optimize inventory, sales strategy, and customer experience.
 
 ## View Dashboard
-You can view the published Power BI dashboard {here}[https://app.powerbi.com/groups/me/reports/48ece9cc-53ba-441f-a7ae-b3a29b1d685c/53c8418b186b78161038?experience=power-bi].
+You can view the published Power BI dashboard [here[(https://app.powerbi.com/groups/me/reports/48ece9cc-53ba-441f-a7ae-b3a29b1d685c/53c8418b186b78161038?experience=power-bi).
 
 ## Dashboard Overview
 The dashboard includes the following features:
